@@ -1,4 +1,4 @@
-This paper presents a Blind Assist System (BAS) leveraging Machine Learning (ML) and Image Processing (IP) techniques
+This project presents a Blind Assist System (BAS) leveraging Machine Learning (ML) and Image Processing (IP) techniques
 to enhance the autonomy and safety of visually impaired individuals. The system utilizes a convolutionalneural network 
 (CNN) to process real-time image inputs from a wearable camera device. Through ML classification, it identifies objects, 
 obstacles, and environmental cues. The IP module further refines data, providing depth perception and spatial awareness. 
